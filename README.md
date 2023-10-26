@@ -58,6 +58,6 @@ Start exploring the project for more details and insights!
 
 Feel free to contribute, report issues, or ask questions. Happy coding!
 
-[![LinkedIn](https://raw.githubusercontent.com/Nileshkl/Unsupervised-ML--Zomato-Restaurant-Clustering-Sentiment-Analysis-/blob/378da058f945eb6fa7f1b8ec8efc63f3139ed68c/LinkedIn-logo.jpg)](https://www.linkedin.com/in/nileshkumar-lavand/)
+<br> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nileshkumar-lavand/)
 
 
