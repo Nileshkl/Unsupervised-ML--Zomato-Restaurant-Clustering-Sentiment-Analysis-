@@ -1,5 +1,5 @@
-# Unsupervised-ML--Zomato-Restaurant-Clustering-Sentiment-Analysis-
-# Machine Learning Capstone Project
+# :star: Unsupervised-ML--Zomato-Restaurant-Clustering-Sentiment-Analysis-:star:
+## :star: Unsupervised ML Capstone Project:star:
 
 ![Project Logo](https://github.com/Nileshkl/Unsupervised-ML--Zomato-Restaurant-Clustering-Sentiment-Analysis-/blob/edef51d6593211578a256d0d16d21fc4ad4d3f6b/zomato-1.png)
 
